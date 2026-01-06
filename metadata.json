@@ -1,0 +1,8 @@
+
+{
+  "name": "Aura Affirm",
+  "description": "A guided daily affirmation app that uses real-time voice technology to help you find peace, focus, and self-love through spoken mantras.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
